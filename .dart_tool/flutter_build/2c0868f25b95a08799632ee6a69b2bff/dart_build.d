@@ -1,0 +1,1 @@
+ /Users/luisavila/dev/universities_app/.dart_tool/flutter_build/2c0868f25b95a08799632ee6a69b2bff/dart_build_result.json: 
